@@ -1,0 +1,93 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "今日の人気記事TOP50",
+            "url": "https://erogazou.gallery/daily-popular-post"
+        },
+        {
+            "cid": 2,
+            "title": "直近１週間の人気記事TOP50",
+            "url": "https://erogazou.gallery/weekly-popular-post"
+        },
+        {
+            "cid": 3,
+            "title": "直近一か月間の人気記事TOP50",
+            "url": "https://erogazou.gallery/monthly-popular-post"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+        "pictureRule": {
+            "item": {
+                "selector": "div.content > a"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "selector": "img"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "selector": "img"
+            }
+        }
+    },
+    "galleryUrl": "{idCode:}/{pageStr:{page:1}}",
+    "gid": 10,
+    "index": 0,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "regex": "(.*)",
+            "selector": "a img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*)",
+            "selector": "a"
+        },
+        "item": {
+            "selector": "div .content ul.wpp-list li"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "a"
+        }
+    },
+    "indexUrl": "{idCode:}",
+    "isGrid": false,
+    "searchRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "regex": "(.*)",
+            "selector": "div a img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*)",
+            "selector": "div a"
+        },
+        "item": {
+            "selector": "div.box.big-box div.post"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "div a img"
+        }
+    },
+    "searchUrl": "https://erogazou.gallery/{pageStr:page/{page:1}}?s={keyword:}",
+    "sid": 154,
+    "title": "工口图TOP50",
+    "versionCode": 0
+}
