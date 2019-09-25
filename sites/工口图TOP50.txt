@@ -2,17 +2,17 @@
     "categories": [
         {
             "cid": 1,
-            "title": "今日の人気記事TOP50",
+            "title": "浠婃棩銇汉姘楄浜婽OP50",
             "url": "https://erogazou.gallery/daily-popular-post"
         },
         {
             "cid": 2,
-            "title": "直近１週間の人気記事TOP50",
+            "title": "鐩磋繎锛戦�遍枔銇汉姘楄浜婽OP50",
             "url": "https://erogazou.gallery/weekly-popular-post"
         },
         {
             "cid": 3,
-            "title": "直近一か月間の人気記事TOP50",
+            "title": "鐩磋繎涓�銇嬫湀闁撱伄浜烘皸瑷樹簨TOP50",
             "url": "https://erogazou.gallery/monthly-popular-post"
         }
     ],
@@ -88,6 +88,6 @@
     },
     "searchUrl": "https://erogazou.gallery/{pageStr:page/{page:1}}?s={keyword:}",
     "sid": 154,
-    "title": "工口图TOP50",
+    "title": "宸ュ彛鍥綯OP50",
     "versionCode": 0
 }
