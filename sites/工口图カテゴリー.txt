@@ -2,112 +2,112 @@
     "categories": [
         {
             "cid": 1,
-            "title": "SM¥×¥ì¥¤¸÷·N",
+            "title": "SMãƒ—ãƒ¬ã‚¤å„ç¨®",
             "url": "https://erogazou.gallery/category/sm{pageStr:/page/{page:1}}"
         },
         {
             "cid": 2,
-            "title": "¥¨¥íGif",
+            "title": "ã‚¨ãƒ­Gif",
             "url": "https://erogazou.gallery/category/%e3%82%a8%e3%83%adgif{pageStr:/page/{page:1}}"
         },
         {
             "cid": 3,
-            "title": "¤ª¤Ã¤Ñ¤¤¥¸¥ã¥ó¥ë",
+            "title": "ãŠã£ã±ã„ã‚¸ãƒ£ãƒ³ãƒ«",
             "url": "https://erogazou.gallery/category/%e3%81%8a%e3%81%a3%e3%81%b1%e3%81%84{pageStr:/page/{page:1}}"
         },
         {
             "cid": 4,
-            "title": "¤ªŠ—¤µ¤ó?ÃÀÅ®",
+            "title": "ãŠå§‰ã•ã‚“?ç¾å¥³",
             "url": "https://erogazou.gallery/category/%e3%81%8a%e5%a7%89%e3%81%95%e3%82%93{pageStr:/page/{page:1}}"
         },
         {
             "cid": 5,
-            "title": "¤ªåê¥¸¥ã¥ó¥ë",
+            "title": "ãŠå°»ã‚¸ãƒ£ãƒ³ãƒ«",
             "url": "https://erogazou.gallery/category/%e3%81%8a%e5%b0%bb{pageStr:/page/{page:1}}"
         },
         {
             "cid": 6,
-            "title": "¥®¥ã¥ëÏµ½y",
+            "title": "ã‚®ãƒ£ãƒ«ç³»çµ±",
             "url": "https://erogazou.gallery/category/%e3%82%ae%e3%83%a3%e3%83%ab{pageStr:/page/{page:1}}"
         },
         {
             "cid": 7,
-            "title": "¥°¥é¥Ó¥¢?¥Ì©`¥É",
+            "title": "ã‚°ãƒ©ãƒ“ã‚¢?ãƒŒãƒ¼ãƒ‰",
             "url": "https://erogazou.gallery/category/%e3%82%b0%e3%83%a9%e3%83%93%e3%82%a2%e3%83%bb%e3%83%8c%e3%83%bc%e3%83%89{pageStr:/page/{page:1}}"
         },
         {
             "cid": 8,
-            "title": "¥³¥¹¥Á¥å©`¥à„e",
+            "title": "ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ åˆ¥",
             "url": "https://erogazou.gallery/category/%e3%82%b3%e3%82%b9%e3%83%81%e3%83%a5%e3%83%bc%e3%83%a0{pageStr:/page/{page:1}}"
         },
         {
             "cid": 9,
-            "title": "¥»¥Ã¥¯¥¹?ÌåÎ»„e",
+            "title": "ã‚»ãƒƒã‚¯ã‚¹?ä½“ä½åˆ¥",
             "url": "https://erogazou.gallery/category/%e3%82%bb%e3%83%83%e3%82%af%e3%82%b9{pageStr:/page/{page:1}}"
         },
         {
             "cid": 10,
-            "title": "¤½¤ÎËû",
+            "title": "ãã®ä»–",
             "url": "https://erogazou.gallery/category/%e3%81%9d%e3%81%ae%e4%bb%96{pageStr:/page/{page:1}}"
         },
         {
             "cid": 11,
-            "title": "¥Õ¥§¥Á?¥Ş¥Ë¥¢¥Ã¥¯",
+            "title": "ãƒ•ã‚§ãƒ?ãƒãƒ‹ã‚¢ãƒƒã‚¯",
             "url": "https://erogazou.gallery/category/%e3%83%95%e3%82%a7%e3%83%81{pageStr:/page/{page:1}}"
         },
         {
             "cid": 12,
-            "title": "¥ê¥¯¥¨¥¹¥ÈÌØ¼¯",
+            "title": "ãƒªã‚¯ã‚¨ã‚¹ãƒˆç‰¹é›†",
             "url": "https://erogazou.gallery/category/%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e7%89%b9%e9%9b%86{pageStr:/page/{page:1}}"
         },
         {
             "cid": 13,
-            "title": "ÏÂ×Å?¥é¥ó¥¸¥§¥ê©`",
+            "title": "ä¸‹ç€?ãƒ©ãƒ³ã‚¸ã‚§ãƒªãƒ¼",
             "url": "https://erogazou.gallery/category/%e4%b8%8b%e7%9d%80%e3%83%bb%e3%83%a9%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc{pageStr:/page/{page:1}}"
         },
         {
             "cid": 14,
-            "title": "¶ş´ÎÔª?¥¢¥Ë¥á",
+            "title": "äºŒæ¬¡å…ƒ?ã‚¢ãƒ‹ãƒ¡",
             "url": "https://erogazou.gallery/category/nijigen-eroanime{pageStr:/page/{page:1}}"
         },
         {
             "cid": 15,
-            "title": "Ç°‘ï¥¸¥ã¥ó¥ë",
+            "title": "å‰æˆ¯ã‚¸ãƒ£ãƒ³ãƒ«",
             "url": "https://erogazou.gallery/category/%e5%89%8d%e6%88%af{pageStr:/page/{page:1}}"
         },
         {
             "cid": 16,
-            "title": "’i¤±¤ë¥¨¥í»­Ïñ¼¯",
+            "title": "æŠœã‘ã‚‹ã‚¨ãƒ­ç”»åƒé›†",
             "url": "https://erogazou.gallery/category/%e6%8a%9c%e3%81%91%e3%82%8b%e3%82%a8%e3%83%ad%e7%94%bb%e5%83%8f%e9%9b%86{pageStr:/page/{page:1}}"
         },
         {
             "cid": 17,
-            "title": "Ñó¥â¥Î?Íâ¹úÈË",
+            "title": "æ´‹ãƒ¢ãƒ?å¤–å›½äºº",
             "url": "https://erogazou.gallery/category/%e6%b4%8b%e3%83%a2%e3%83%8e%e3%83%bb%e5%a4%96%e5%9b%bd%e4%ba%ba{pageStr:/page/{page:1}}"
         },
         {
             "cid": 18,
-            "title": "ÊìÅ®?ÈËÆŞ",
+            "title": "ç†Ÿå¥³?äººå¦»",
             "url": "https://erogazou.gallery/category/%e7%86%9f%e5%a5%b3{pageStr:/page/{page:1}}"
         },
         {
             "cid": 19,
-            "title": "¹Éég?¾Ö²¿",
+            "title": "è‚¡é–“?å±€éƒ¨",
             "url": "https://erogazou.gallery/category/%e8%82%a1%e9%96%93{pageStr:/page/{page:1}}"
         },
         {
             "cid": 20,
-            "title": "×ÔÎ¿ĞĞé",
+            "title": "è‡ªæ…°è¡Œç‚º",
             "url": "https://erogazou.gallery/category/%e8%87%aa%e6%85%b0%e8%a1%8c%e7%82%ba{pageStr:/page/{page:1}}"
         },
         {
             "cid": 21,
-            "title": "×ã?½Å²¿",
+            "title": "è¶³?è„šéƒ¨",
             "url": "https://erogazou.gallery/category/%e7%be%8e%e8%84%9a{pageStr:/page/{page:1}}"
         },
         {
             "cid": 22,
-            "title": "Ò°ÍâÂ¶³ö¥¸¥ã¥ó¥ë",
+            "title": "é‡å¤–éœ²å‡ºã‚¸ãƒ£ãƒ³ãƒ«",
             "url": "https://erogazou.gallery/category/%e9%87%8e%e5%a4%96%e9%9c%b2%e5%87%ba{pageStr:/page/{page:1}}"
         }
     ],
@@ -183,6 +183,6 @@
     },
     "searchUrl": "https://erogazou.gallery/{pageStr:page/{page:1}}?s={keyword:}",
     "sid": 152,
-    "title": "¹¤¿ÚÍ¼¥«¥Æ¥´¥ê©`",
+    "title": "å·¥å£å›¾ã‚«ãƒ†ã‚´ãƒªãƒ¼",
     "versionCode": 0
 }
