@@ -1,0 +1,188 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "SMプレイ各種",
+            "url": "https://erogazou.gallery/category/sm{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 2,
+            "title": "エロGif",
+            "url": "https://erogazou.gallery/category/%e3%82%a8%e3%83%adgif{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 3,
+            "title": "おっぱいジャンル",
+            "url": "https://erogazou.gallery/category/%e3%81%8a%e3%81%a3%e3%81%b1%e3%81%84{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 4,
+            "title": "お姉さん?美女",
+            "url": "https://erogazou.gallery/category/%e3%81%8a%e5%a7%89%e3%81%95%e3%82%93{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 5,
+            "title": "お尻ジャンル",
+            "url": "https://erogazou.gallery/category/%e3%81%8a%e5%b0%bb{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 6,
+            "title": "ギャル系統",
+            "url": "https://erogazou.gallery/category/%e3%82%ae%e3%83%a3%e3%83%ab{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 7,
+            "title": "グラビア?ヌード",
+            "url": "https://erogazou.gallery/category/%e3%82%b0%e3%83%a9%e3%83%93%e3%82%a2%e3%83%bb%e3%83%8c%e3%83%bc%e3%83%89{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 8,
+            "title": "コスチューム別",
+            "url": "https://erogazou.gallery/category/%e3%82%b3%e3%82%b9%e3%83%81%e3%83%a5%e3%83%bc%e3%83%a0{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 9,
+            "title": "セックス?体位別",
+            "url": "https://erogazou.gallery/category/%e3%82%bb%e3%83%83%e3%82%af%e3%82%b9{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 10,
+            "title": "その他",
+            "url": "https://erogazou.gallery/category/%e3%81%9d%e3%81%ae%e4%bb%96{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 11,
+            "title": "フェチ?マニアック",
+            "url": "https://erogazou.gallery/category/%e3%83%95%e3%82%a7%e3%83%81{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 12,
+            "title": "リクエスト特集",
+            "url": "https://erogazou.gallery/category/%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e7%89%b9%e9%9b%86{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 13,
+            "title": "下着?ランジェリー",
+            "url": "https://erogazou.gallery/category/%e4%b8%8b%e7%9d%80%e3%83%bb%e3%83%a9%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%aa%e3%83%bc{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 14,
+            "title": "二次元?アニメ",
+            "url": "https://erogazou.gallery/category/nijigen-eroanime{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 15,
+            "title": "前戯ジャンル",
+            "url": "https://erogazou.gallery/category/%e5%89%8d%e6%88%af{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 16,
+            "title": "抜けるエロ画像集",
+            "url": "https://erogazou.gallery/category/%e6%8a%9c%e3%81%91%e3%82%8b%e3%82%a8%e3%83%ad%e7%94%bb%e5%83%8f%e9%9b%86{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 17,
+            "title": "洋モノ?外国人",
+            "url": "https://erogazou.gallery/category/%e6%b4%8b%e3%83%a2%e3%83%8e%e3%83%bb%e5%a4%96%e5%9b%bd%e4%ba%ba{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 18,
+            "title": "熟女?人妻",
+            "url": "https://erogazou.gallery/category/%e7%86%9f%e5%a5%b3{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 19,
+            "title": "股間?局部",
+            "url": "https://erogazou.gallery/category/%e8%82%a1%e9%96%93{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 20,
+            "title": "自慰行為",
+            "url": "https://erogazou.gallery/category/%e8%87%aa%e6%85%b0%e8%a1%8c%e7%82%ba{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 21,
+            "title": "足?脚部",
+            "url": "https://erogazou.gallery/category/%e7%be%8e%e8%84%9a{pageStr:/page/{page:1}}"
+        },
+        {
+            "cid": 22,
+            "title": "野外露出ジャンル",
+            "url": "https://erogazou.gallery/category/%e9%87%8e%e5%a4%96%e9%9c%b2%e5%87%ba{pageStr:/page/{page:1}}"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+        "pictureRule": {
+            "item": {
+                "selector": "div.content > a"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "selector": "img"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "selector": "img"
+            }
+        }
+    },
+    "galleryUrl": "{idCode:}/{pageStr:{page:1}}",
+    "gid": 10,
+    "index": 0,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "regex": "(.*)",
+            "selector": "div.thumb-box a img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*)",
+            "selector": "div.thumb-box a"
+        },
+        "item": {
+            "selector": "div.box.big-box div.post"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "div.thumb-box a img"
+        }
+    },
+    "indexUrl": "{idCode:}",
+    "isGrid": false,
+    "searchRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "regex": "(.*)",
+            "selector": "div a img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*)",
+            "selector": "div a"
+        },
+        "item": {
+            "selector": "div.box.big-box div.post"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "div a img"
+        }
+    },
+    "searchUrl": "https://erogazou.gallery/{pageStr:page/{page:1}}?s={keyword:}",
+    "sid": 152,
+    "title": "工口图カテゴリー",
+    "versionCode": 0
+}
