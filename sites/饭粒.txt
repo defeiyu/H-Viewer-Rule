@@ -1,0 +1,83 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "Ö»ÒªÍ¼",
+            "url": "https://www.retuwo.com/page/{page:1}"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+        "pictureRule": {
+            "item": {
+                "selector": ".article-content"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "selector": "p img"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "selector": "p img"
+            }
+        }
+    },
+    "galleryUrl": "{idCode:}_{page:1}.html",
+    "gid": 9,
+    "index": 0,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "data-original",
+            "regex": "(.*)",
+            "selector": "p a img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*).html",
+            "selector": "header h2 a"
+        },
+        "item": {
+            "selector": ".excerpt"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "header h2 a"
+        }
+    },
+    "indexUrl": "https://www.retuwo.com/page/{page:1}",
+    "isGrid": false,
+    "searchRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "data-original",
+            "regex": "(.*)",
+            "selector": "article p a img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*).html",
+            "selector": "article header h2 a"
+        },
+        "item": {
+            "selector": ".excerpt"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "article header h2 a"
+        }
+    },
+    "searchUrl": "https://www.retuwo.com/page/{page:1}?s={keyword:}",
+    "sid": 140,
+    "title": "·¹Á£",
+    "versionCode": 0
+}
